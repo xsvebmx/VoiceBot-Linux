@@ -79,9 +79,9 @@ for text in listen():
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** Mem usage 6-8gb
 
-**Server:** Node, Express
+**Server:** Mem usage ~10gb
 
 
 ## Features
