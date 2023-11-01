@@ -17,7 +17,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot]([https://git](https://github.com/xsvebmx/VoiceBot/blob/main/demo.png))
+![App Screenshot](https://github.com/xsvebmx/VoiceBot/blob/main/demo.png)
 
 
 ## Run Locally
