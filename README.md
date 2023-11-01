@@ -25,25 +25,25 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/xsvebmx/VoiceBot.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd VoiceBot
 ```
 
-Install dependencies
+Install requirements
 
 ```bash
-  npm install
+  pip3 install -r requirements.txt
 ```
 
-Start the server
+Start main.py
 
 ```bash
-  npm run start
+  python3 main.py
 ```
 
 
