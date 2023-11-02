@@ -1,5 +1,5 @@
 
-# VoiceBot [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xsvebmx/VoiceBot/LICENSE.md)
+# VoiceBot [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xsvebmx/VoiceBot/LICENSE)
 
 A neural network voice model that executes commands on demand, like a voice assistant, but very crude
 
