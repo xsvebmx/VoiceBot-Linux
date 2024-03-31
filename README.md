@@ -1,18 +1,14 @@
-
 # VoiceBot 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=41&pause=1000&color=A004F7&background=A37AFF00&center=true&vCenter=true&random=false&width=500&height=60&lines=VoiceBot+)](https://git.io/typing-svg)
+## About
 A neural network voice model that executes commands on demand, like a voice assistant, but very crude
 
 
-## Authors
+### Authors:
 
-- [@xsvebmx](https://www.github.com/xsvebmx) 
-
-
-
-## Demo
-
-Insert gif or link to demo
+<a href="https://t.me/Mirya53">
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="30" height="30"/>
+</a> 
 
 
 ## Screenshots
@@ -81,27 +77,5 @@ for text in listen():
 
 **Client:** Mem usage 6-8gb
 
-**Server:** Mem usage ~10gb
 
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
